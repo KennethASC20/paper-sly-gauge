@@ -9,10 +9,14 @@ a {
   color: #444;
   text-decoration: none;
 }
+a:hover {
+  text-decoration: underline;
+  color: orange;
+}
 header {
   background-color: #000;
   /* this is jsut black*/
-  padding: 3em;
+  padding: 3%;
 }
 header .menu {
   margin: 0;
@@ -20,6 +24,10 @@ header .menu {
 }
 header .menu li {
   display: inline;
+  margin-right: 2em;
+}
+header .menu li a:hover {
+color: yellow;
 }
 header .menu li a {
   color: white;
