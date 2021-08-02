@@ -5,13 +5,22 @@ body {
   /*    this is a shade of black*/
   font-family: Verdana;
 }
+a {
+  color: #444;
+  text-decoration: none;
+}
 header {
   background-color: #000;
   /* this is jsut black*/
+  padding: 3em;
 }
 header .menu {
   margin: 0;
+  list-style:none
 }
 header .menu li {
-  margin:
+  display: inline;
+}
+header .menu li a {
+  color: white;
 }
