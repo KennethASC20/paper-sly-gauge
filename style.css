@@ -20,15 +20,19 @@ header {
 }
 header .menu {
   margin: 0;
-  list-style:none
+  list-style: none;
 }
 header .menu li {
   display: inline;
   margin-right: 2em;
 }
 header .menu li a:hover {
-color: yellow;
+  color: yellow;
 }
 header .menu li a {
   color: white;
+}
+.product-card {
+  display: flex;
+  flex-flow: wrap;
 }
