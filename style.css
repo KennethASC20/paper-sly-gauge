@@ -1,0 +1,17 @@
+/*External CSS  */
+body {
+  font-size: 1em;
+  color: #444;
+  /*    this is a shade of black*/
+  font-family: Verdana;
+}
+header {
+  background-color: #000;
+  /* this is jsut black*/
+}
+header .menu {
+  margin: 0;
+}
+header .menu li {
+  margin:
+}
