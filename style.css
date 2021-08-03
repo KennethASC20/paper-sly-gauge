@@ -38,5 +38,10 @@ header .menu li a {
   padding-left: 3em;
 }
 .card {
-  padding-left: 3em;
+  padding: 3em;
+}
+.card:hover {
+  color: #ff7a59;
+  border: #ff7a59 solid 1px;
+  background: #fff;
 }
