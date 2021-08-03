@@ -35,4 +35,8 @@ header .menu li a {
 .product-card {
   display: flex;
   flex-flow: wrap;
+  padding-left: 3em;
+}
+.card {
+  padding-left: 3em;
 }
