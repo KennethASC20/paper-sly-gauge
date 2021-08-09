@@ -40,5 +40,6 @@ address {
   margin-bottom: 2em;
 }
 .building {
-  
+  width: 800px;
+  height: 600px;
 }

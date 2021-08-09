@@ -58,16 +58,33 @@
     </header>
 
     <main>
-      <h1>
-        Contact Page
-      </h1>
-
-      
-      <img
-          class="building"
-          src="https://cdn.glitch.com/8cdf0fc0-9751-45c8-9c7c-fafbd7655838%2F10-random-building.jpg?v=1628539035730"
-          alt="HQ"
-      />
+      <div class="grid-parent">
+        <div class="grid-child">
+          <h2>
+            Contact Info
+          </h2>
+        </div>
+        <div class="grid-child">
+          <form>
+            <label for="fname">First Name</label>
+            <input type="text" id="fname" name="fname" />
+            <br />
+            <label for="lname">Last Name</label>
+            <input type="text" id="lname" name"lname" />
+            <br />
+            <label for="email">Email</label>
+            <input type="text" id="email" name="email" />
+            <br />
+            <label for="phone">Phone Number</label>
+            <input type="text" id="phone" name="phone" />
+            <br />
+            <label for="message">Message</label>
+            <textarea row="4" cols="30"></textarea>
+            <br />
+            <input type="submit" value="Submit" />
+          </form>
+        </div>
+      </div>
     </main>
 
     <footer>
