@@ -33,3 +33,12 @@ address {
 .resume {
   background-color: #cc9cb4;
 }
+.grid-parent {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-column-gap: 10px;
+  margin-bottom: 2em;
+}
+.building {
+  
+}
