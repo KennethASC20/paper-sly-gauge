@@ -30,9 +30,6 @@ address {
   color: black;
   text-transform: uppercase;
 }
-hr {
-  height: 5px;
-  border-width: 0;
-  color: gray;
-  background-color: black;
+.resume {
+  background-color: #cc9cb4;
 }
