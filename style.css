@@ -15,11 +15,12 @@
   height: 100px;
 }
 footer {
-  padding: 20px;
+  padding:10px;
   text-align: left;
   background: gray;
+  display: block;
 }
-main {
+body {
   background-color: #db278a;
 }
 .card-body {
