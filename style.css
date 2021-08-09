@@ -13,5 +13,13 @@
   height: 100px;
 }
 footer {
-  
+  padding: 20px;
+  text-align: left;
+  background: gray;
+}
+main {
+  background-color: #db278a;
+}
+.card-body {
+  background: rgba(211, 211, 211, 0.5);
 }
