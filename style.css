@@ -47,7 +47,7 @@ address {
 .project {
   font-size: 32px;
 }
-p .project {
+p.project, .form-label, .form-check-label{
   color:#ffffff;
 }
 p,
