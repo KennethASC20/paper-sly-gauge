@@ -28,7 +28,7 @@ header .menu li {
 }
 header .menu li a:hover {
   color: yellow;
-  border: 
+  border: 4px solid Red;
 }
 header .menu li a {
   color: white;
