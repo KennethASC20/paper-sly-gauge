@@ -44,3 +44,6 @@ address {
   width: 800px;
   height: 600px;
 }
+p {
+  font-size: 32px;
+}
