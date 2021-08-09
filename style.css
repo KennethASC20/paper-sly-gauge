@@ -7,6 +7,8 @@
   background-color: #eee;
   width: 200px;
   padding: 2px;
+  text-decoration: none;
+  text-transform: uppercase;
 }
 .github {
   width: 100px;
@@ -22,4 +24,15 @@ main {
 }
 .card-body {
   background-color: #f388bd;
+}
+address {
+  font-style: normal;
+  color: black;
+  text-transform: uppercase;
+}
+hr {
+  height: 5px;
+  border-width: 0;
+  color: gray;
+  background-color: black;
 }
