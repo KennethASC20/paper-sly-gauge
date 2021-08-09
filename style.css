@@ -44,6 +44,15 @@ address {
   width: 800px;
   height: 600px;
 }
-p {
+.project {
   font-size: 32px;
+}
+p, li {
+  font-size:25px;
+}
+h1 {
+  padding: 20px;
+}
+.navbar-brand {
+  font:Brush Script MT;
 }
