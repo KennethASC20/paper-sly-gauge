@@ -45,3 +45,11 @@ header .menu li a {
   border: #ff7a59 solid 1px;
   background: #fff;
 }
+
+/* Grid Layout */
+.grid-parent {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-column-gap: 10px;
+  margin-bottom: 2em;
+}
