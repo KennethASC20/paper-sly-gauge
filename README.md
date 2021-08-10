@@ -20,11 +20,8 @@ Put details of project here.
 
 ## What I've Learned
 
-what did you learn?
+I learned about the differences attributes do even though they do look the same. I also leanred to how make my site accessible for people on mobile devices which is a crucial aspect since many people use their phones often.
 
-## Contact me
-
-put your contact info here
 
 ```
 …or create a new repository on the command line
