@@ -4,7 +4,7 @@ Put details of project here.
 
 ## What's in this project?
 
-← `README.md`: Just put details about HTML and CSS of project here
+← `README.md`: HTML consists of the about, home, 
 
 ← `index.html`: This is your welcome page
 
