@@ -4,12 +4,19 @@ Put details of project here.
 
 ## What's in this project?
 
-← `README.md`: HTML consists of the about, home, 
+← `README.md`: HTML consists of the about, home, contact, and project page that are the fundamentals of this project. CSS is short but very powerful since I used some of Bootstraps aspects.
 
-← `index.html`: This is your welcome page
+← `index.html`: This is the home page where people will see once getting into the website. They will be greeted by other users who have made an account and see an option to match with them.
 
-← `style.css`: This is for all your css and styling
-← ``: 
+← `style.css`: This is the core of the website and how it got to look the way it looks.
+
+← `about.html`: This is a page that is kind of like my resume which shows who I am and my information and my records.
+
+`contact.html`: This is the contact page which features the companies address and number and picture of a random building but acts like the companies bulidng for people to ask us any questions.
+
+`project.html`: This is basically like a Q and A type page which answers questions people might have about my project as to why I made it, and how I made it.
+
+`signup.html`:This is a page that directs new people to sign up to become a member of the dating site and have the ability to match with others.
 
 ## What I've Learned
 
@@ -18,7 +25,6 @@ what did you learn?
 ## Contact me
 
 put your contact info here
-
 
 ```
 …or create a new repository on the command line
